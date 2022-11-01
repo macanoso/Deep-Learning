@@ -5,12 +5,12 @@ Analytics.
 
 In this subject I studied about different topics like:
 
-* GANs
-* NLP
+* GANs 
+* NLP (for language)
 * Segmantic Segmentation
 * Transformers
 * pix2pix
 * MultiClassification
 * GeoAI
-
+* Use of HF for store models
 
